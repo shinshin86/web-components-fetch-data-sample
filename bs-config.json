@@ -1,0 +1,5 @@
+{
+  "port": 3000,
+  "files": ["./index.html", "./web-components/*.js"],
+  "open": false
+}

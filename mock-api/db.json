@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "title 1",
+      "body": "hello world and goodbye world",
+      "image": "http://placehold.jp/111/150.150.png?text=mock-image"
+    },
+    {
+      "id": 2,
+      "title": "title 2",
+      "body": "hello world and goodbye world",
+      "image": "http://placehold.jp/222/150.150.png?text=mock-image"
+    },
+    {
+      "id": 3,
+      "title": "title 3",
+      "body": "hello world and goodbye world",
+      "image": "http://placehold.jp/333/150.150.png?text=mock-image"
+    },
+    {
+      "id": 4,
+      "title": "title 4",
+      "body": "hello world and goodbye world",
+      "image": "http://placehold.jp/444/150.150.png?text=mock-image"
+    },
+    {
+      "id": 5,
+      "title": "title 5",
+      "body": "hello world and goodbye world",
+      "image": "http://placehold.jp/555/150.150.png?text=mock-image"
+    }
+  ]
+}
